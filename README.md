@@ -29,3 +29,6 @@
 	TWICE!
 
 3.	to go back to your native res double click the... why am i even writing this...
+
+# Download
+[Click here](https://github.com/deaFPS/apex-stretched-script/releases)
