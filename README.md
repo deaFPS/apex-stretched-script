@@ -11,7 +11,7 @@
 
 2.	place the files from "to C drive" to your "C:/" directory
 	
-	place the files from "to Desktop"... you are not dumb, do you?
+	place the files from "to Desktop"... you are not dumb, are you?
 	
 3.	set your launch options from the "Launch Options.txt" in your steam for apex
 
@@ -21,7 +21,7 @@
 	
 4.	if you changed the res to anything other than 1440x1080 youll 
 
-      	need to edit the "stretched.ps1" file in your "C:/" directory
+	need to edit the "stretched.ps1" file in your "C:/" directory
 
 	open it with notepad and edit the very last line and put in your res
 	
