@@ -16,7 +16,7 @@
 	the default res is 1440x1080, you can change this if you want.
 	also make sure you added this as a custom res.
 	
-3.1.	if you changed the res to anything other than 1440x1080 youll 
+4.	if you changed the res to anything other than 1440x1080 youll 
       	need to edit the "stretched.ps1" file in your "C:/" directory
 	open it with notepad and edit the very last line and put in your res
 	
